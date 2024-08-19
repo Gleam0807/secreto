@@ -8,11 +8,14 @@ $ npm start
 
 ---
 
-```jsx
+```
 [ 새로운 비밀 작성 ]
-<img src="./img1.png", height="240px", width="240px">
+```
 
-[ 작성 이후 console 저장 데이터 확인 ]
-<img src="./img2.png", height="240px", width="240px">
+<img src="./img1.png" height="500px" width="500px">
 
 ```
+[ 작성 이후 console 저장 데이터 확인 ]
+```
+
+<img src="./img2.png" height="500px" width="500px">
