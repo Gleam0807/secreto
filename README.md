@@ -12,10 +12,10 @@ $ npm start
 [ 새로운 비밀 작성 ]
 ```
 
-<img src="./img1.png" height="500px" width="500px">
+<img src="./img1.png" height="500px" width="800px">
 
 ```
 [ 작성 이후 console 저장 데이터 확인 ]
 ```
 
-<img src="./img2.png" height="500px" width="500px">
+<img src="./img2.png" height="500px" width="800px">
