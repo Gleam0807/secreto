@@ -14,7 +14,7 @@ const Wrapper = styled.div`
     background: skyblue;
     color: white;
     :hover {
-        background: lightgrey;
+        background: grey;
     }
 `;
 
